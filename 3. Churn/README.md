@@ -25,10 +25,13 @@
 - Exited — факт ухода клиента.
 
 ## Инструменты
-`pandas` `matplotlib` `seaborn` `sklearn` `imblearn` `StandardScaler` `OneHotEncoder` `SMOTE` `RandomUnderSampler`
+`pandas` `matplotlib` `seaborn` `sklearn` `imblearn`
 
 ### Используемые модели
 `GridSearchCV` `DecisionTreeClassifier` `LogisticRegression` `RandomForestClassifier`
+
+### Дополнительно
+`StandardScaler` `OneHotEncoder` `SMOTE` `RandomUnderSampler`
 
 ## Основные шаги и выводы:
 - Выполнена предобработка (заполнила пропуски, отобраны признаки, исправлены типы данных);
