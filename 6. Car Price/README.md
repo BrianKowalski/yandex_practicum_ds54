@@ -28,6 +28,8 @@
 * Сравнение моделей на валидационной выборке - скорость работы и результат;
 * Модель на тестовых данных удовлетворила требование заказчика по метрике.
 ### Инструменты
-`sklearn` `pandas` `catboost` `lightgbm` `matplotlib` `phik` `OrdinalEncoder` `seaborn`
+`sklearn` `pandas` `catboost` `lightgbm` `matplotlib` `phik` `seaborn`
 ### Модели
 `CatBoostRegressor` `LGBMRegressor` `RandomForestRegressor`
+### Дополнительно
+`OrdinalEncoder` 
