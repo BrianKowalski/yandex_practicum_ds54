@@ -20,6 +20,6 @@
 4. Разделить на 2 выборки - обучающую и тестовую (тк данных не шибко много)
 5. Обучить несколько моделей с разными гиперпараметрами, выбрать лучшую модель
 ### Инструменты
-`sklearn` `pandas` `catboost` `lightgbm` `matplotlib` `shap` `seaborn` `GridSearchCV`
+`sklearn` `pandas` `catboost` `lightgbm` `matplotlib` `shap` `seaborn`
 ### Модели
-`CatBoostRegressor` `LGBMRegressor` `RandomForestRegressor` `LinearRegression`
+`CatBoostRegressor` `LGBMRegressor` `RandomForestRegressor` `LinearRegression` `GridSearchCV`
