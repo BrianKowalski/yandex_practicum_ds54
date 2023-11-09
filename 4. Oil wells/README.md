@@ -16,10 +16,13 @@
 - product — объём запасов в скважине (тыс. баррелей).
 
 ## Инструменты
-`pandas` `matplotlib` `seaborn` `sklearn` `StandardScaler` `numpy`
+`pandas` `matplotlib` `seaborn` `sklearn` `numpy`
 
 ### Используемые модели
 `LinearRegression`
+
+### Дополнительно
+`StandardScaler`
 
 ## Основные шаги и выводы:
 - Выполнена предобработка;
